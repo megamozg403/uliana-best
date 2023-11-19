@@ -1,0 +1,23 @@
+.flex-container {
+    flex-basis: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.hero-title {
+    color: darkblue;
+    text-align: center;
+    font-size: 100px;
+    font-weight: 900;
+    width: 100%;
+    max-width: 1250px;
+    margin: 0 auto;
+    padding: 0 24px;
+    text-transform: uppercase;
+}
+
+.image {
+    flex-basis: auto;
+    display: flex;
+    justify-content: center;
+}
